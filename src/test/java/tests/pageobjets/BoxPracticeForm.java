@@ -10,10 +10,5 @@ public class BoxPracticeForm {
         BoxPracticeForm.openPage();
         BoxPracticeForm.fillForm();
         BoxPracticeForm.checkData();
-
-
     }
-
-
-
 }
